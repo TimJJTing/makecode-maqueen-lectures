@@ -1,3 +1,6 @@
+/**
+ * @link: https://makecode.microbit.org/_8U4YsDVo6LfT 
+ */
 let strip = neopixel.create(DigitalPin.P15, 4, NeoPixelMode.RGB)
 music.beginMelody(music.builtInMelody(Melodies.Ode), MelodyOptions.OnceInBackground)
 basic.forever(function () {

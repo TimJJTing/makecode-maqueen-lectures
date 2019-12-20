@@ -1,3 +1,6 @@
+/**
+ * @link: https://makecode.microbit.org/_P2YD3jc9t7x8
+ */
 basic.forever(function () {
     maqueen.MotorRun(maqueen.aMotors.All, maqueen.Dir.CW, 20)
     basic.pause(500)

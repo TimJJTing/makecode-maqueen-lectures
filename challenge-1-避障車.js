@@ -1,3 +1,6 @@
+/**
+ * @link: https://makecode.microbit.org/_T7JLuFC7HY8M
+ */
 basic.forever(function () {
     if (maqueen.sensor(PingUnit.Centimeters) < 10) {
         if (Math.randomBoolean()) {

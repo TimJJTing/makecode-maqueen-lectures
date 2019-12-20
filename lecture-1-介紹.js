@@ -1,3 +1,6 @@
+/**
+ * link: https://makecode.microbit.org/_LvcdkFd1caec
+ */
 input.onPinPressed(TouchPin.P1, function () {
     basic.showIcon(IconNames.Sad)
 })

@@ -1,3 +1,6 @@
+/**
+ * @link: https://makecode.microbit.org/_hvg4Dk2fp4zo
+ */
 function 全家音樂 () {
     music.playTone(659, music.beat(BeatFraction.Whole))
     music.playTone(523, music.beat(BeatFraction.Whole))
